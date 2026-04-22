@@ -1,0 +1,17 @@
+[
+    {
+        "user_id": "697da36024b13",
+        "course_id": 1,
+        "enrolled_at": "2026-02-15 08:59:18"
+    },
+    {
+        "user_id": "697da36024b13",
+        "course_id": 3,
+        "enrolled_at": "2026-04-21 09:52:51"
+    },
+    {
+        "user_id": "69e7393bdde56",
+        "course_id": 5,
+        "enrolled_at": "2026-04-21 10:52:50"
+    }
+]

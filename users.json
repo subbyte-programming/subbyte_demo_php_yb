@@ -5,5 +5,19 @@
         "email": "abdulsubhan@gmail.com",
         "password": "$2y$10$PrFKCXjuhfyCskS9..5b.uN8kUS1oZ.KJ4m8ltv2zhNgJwTTWJOeC",
         "created_at": "2026-01-30 17:43:26"
+    },
+    {
+        "id": "697da36024b13",
+        "name": "muhammad subhan",
+        "email": "subhhan@gmail.com",
+        "password": "$2y$10$JXEiChylhjuC3FzgiGLVIOmRBmaRpJOEfds8dpb8XjiTVAqrAPum6",
+        "created_at": "2026-01-31 07:38:24"
+    },
+    {
+        "id": "69e7393bdde56",
+        "name": "sam",
+        "email": "sam@gmail.com",
+        "password": "$2y$10$u.CUXhBT6RSesJD9f2hQqOMI5id9W0TKmSPN1FQDpHVEXtx4POz26",
+        "created_at": "2026-04-21 10:45:48"
     }
 ]

@@ -618,7 +618,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                     <div class="testimonial-author">
                         <div class="author-avatar">AS</div>
                         <div>
-                            <div class="author-name">Alex Smith</div>
+                            <div class="author-name">Samm</div>
                             <div style="font-size: 14px; opacity: 0.8;">Full Stack Developer</div>
                         </div>
                     </div>
